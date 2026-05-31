@@ -1,6 +1,6 @@
 # Suomen rahapelilain uudistus 2027: Faktat ja viralliset lähteet
 
-Tämä repositorio kokoaa neutraalin, lähteisiin perustuvan yhteenvedon Suomen rahapelijärjestelmän uudistuksesta (lisenssimalli 2027). ⚖️
+Tämä repositorio kokoaa neutraalin, lähteisiin perustuvan yhteenvedon Suomen rahapelijärjestelmän uudistuksesta (lisenssimalli 2027).
 
 Mukana ovat:
 - Aikajana, jossa on vain virallisesti todennettavia tapahtumia ja päivämääriä
