@@ -1,0 +1,27 @@
+# Sanasto (FI–EN)
+
+- rahapelimonopoli – gambling monopoly
+- lisenssijärjestelmä – licensing regime
+- pelilisenssi – gambling license
+- kanavointiaste – channelisation rate (Uudistuksen onnistumisen keskeisin mittari: osuus pelaamisesta, joka kanavoituu säännellyille, lisensoiduille toimijoille.)
+- verotus – taxation
+- verovapaa voitto – tax-free winnings
+- vastuullinen pelaaminen – responsible gambling
+- pelirajat – player limits
+- talletusraja – deposit limit
+- tappioraja – loss limit
+- ikärajavalvonta – age verification
+- KYC (tunne asiakkaasi) – Know Your Customer (KYC)
+- AML (rahanpesun estäminen) – Anti-Money Laundering (AML)
+- valvova viranomainen – regulatory authority
+- lisenssin myöntäjä – licensing authority
+- arpajaislaki – Lottery Act
+- pikakasino – Pay-and-Play casino
+- luotettavuusarviointi – reliability assessment
+- hallinnollinen seuraamusmaksu – administrative penalty payment
+- tunnistautumisvelvollisuus – identification obligation / strong authentication
+- maksu- ja rahaliikenteen estot – payment blocking / transaction blocks
+- Hallituksen esitys (HE) – Government Bill
+- Lausuntokierros – Consultation round / Public consultation
+- Siirtymäaika – Transitional period
+- B2B-lisenssi – B2B license
