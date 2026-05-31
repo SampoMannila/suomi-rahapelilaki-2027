@@ -1,11 +1,16 @@
 # Aikajana – Suomen rahapelijärjestelmän uudistus
 
-Tämä aikajana sisältää ainoastaan virallisesti vahvistettuja ja lähteistettyjä tapahtumia. Mukana on myös alkuperäinen tavoite (1.1.2026) ja sen muuttuminen (1.1.2027).
+Tämä aikajana listaa virallisesti todennettavat ja lähteistettävät tapahtumat.
 
-- 20.6.2023: Petteri Orpon hallituksen ohjelma julkaistaan. Ohjelmassa todetaan siirtyminen lisenssijärjestelmään viimeistään 1.1.2026. Lähde: Valtioneuvosto – Vahva ja välittävä Suomi: https://valtioneuvosto.fi/hallitusohjelma
+- 20.6.2023: Petteri Orpon hallituksen ohjelma julkaistaan. Ohjelmassa linjataan siirtyminen lisenssijärjestelmään. Lähde: Valtioneuvosto – Hallitusohjelma: https://valtioneuvosto.fi/hallitusohjelma
 
-- 22.4.2024: Lainsäädäntöhanke arpajaislain uudistamiseksi asetetaan (STM033:00/2024). Tavoitteeksi asetetaan hallituksen esityksen antaminen kevätistuntokaudella 2025. Lähde: Valtioneuvoston hankeikkuna: https://valtioneuvosto.fi/hanke?tunnus=STM033:00/2024
+- 22.4.2024: Lainsäädäntöhanke arpajaislainsäädännön uudistamiseksi asetetaan (STM033:00/2024). Lähde: Valtioneuvoston hankeikkuna (STM-hankkeet): https://valtioneuvosto.fi/hankkeet
 
-- 06/2025: Eduskunta hyväksyy hallituksen esityksen HE 100/2025 lisenssijärjestelmän käyttöönotosta. Lähde: Eduskunnan Vaski (haku HE 100/2025): https://www.eduskunta.fi/FI/vaski/Sivut/trip.aspx
+- 17.4.2025: Hallitus antaa eduskunnalle hallituksen esityksen HE 100/2025 vp rahapelijärjestelmän uudistamisesta (lisenssimalli). Lähteet: eduskunta.fi (Vaski), Finlex (Hallituksen esitykset): https://www.eduskunta.fi, https://www.finlex.fi
 
-- 1.1.2027: Uudistuksen voimaantulo (lisenssimalli astuu voimaan). Lähde: Finlex – Ajantasainen lainsäädäntö: https://www.finlex.fi/fi/laki/ajantasa/
+- 27.6.2025: Eduskunta hyväksyy esityksen (rahapelilaki ja arpajaislain muutokset). Lähde: eduskunta.fi: https://www.eduskunta.fi
+
+- 1.1.2027: Uudistuksen voimaantulo (lisenssipohjainen markkina). Lähde: Finlex – Ajantasainen lainsäädäntö: https://www.finlex.fi
+
+Tarkentuvat vaiheet (ei vahvistettu, EPÄVARMA)
+- Lupahakemusten vastaanoton arvioitu aloitus vuonna 2026. Tarkentuu viranomaisohjeissa ja asetuksissa.
