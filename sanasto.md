@@ -3,7 +3,7 @@
 - rahapelimonopoli – gambling monopoly
 - lisenssijärjestelmä – licensing regime
 - pelilisenssi – gambling license
-- kanavointiaste – channelisation rate (Uudistuksen onnistumisen keskeisin mittari: osuus pelaamisesta, joka kanavoituu säännellyille, lisensoiduille toimijoille.)
+- kanavointiaste – channelisation rate (Uudistuksen keskeinen mittari: osuus pelaamisesta, joka kanavoituu säännellyille, lisensoiduille toimijoille.)
 - verotus – taxation
 - verovapaa voitto – tax-free winnings
 - vastuullinen pelaaminen – responsible gambling
